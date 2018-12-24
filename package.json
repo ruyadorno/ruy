@@ -1,6 +1,6 @@
 {
   "name": "ruy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Ruy Adorno (@ruyadorno)",
   "main": "bin/index.js",
   "repository": {
